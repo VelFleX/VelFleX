@@ -1,4 +1,4 @@
-### I want pizza 🍕
+I want pizza 🍕
 
 <!--
 **VelFleX/VelFleX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
