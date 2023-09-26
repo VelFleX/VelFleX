@@ -1,5 +1,5 @@
-I want pizza 🍕
-
+Если чем-то был полезен, можете поблагодарить меня, спасибо <3:
+2200700144677803 
 <!--
 **VelFleX/VelFleX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
